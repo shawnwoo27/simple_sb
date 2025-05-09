@@ -5,8 +5,8 @@ pipeline {
         maven 'my_maven'
     }
     environment {
-        GITNAME = 'oolralra'            
-        GITEMAIL = 'oolralra@gmail.com' 
+        GITNAME = 'shawnwoo27'            
+        GITEMAIL = 'shawnwoo27@naver.com' 
         GITWEBADD = 'https://github.com/shawnwoo27/simple_sb.git'
         GITSSHADD = 'git@github.com:shawnwoo27/simple_sb.git'
         GITCREDENTIAL = 'git_credential'
